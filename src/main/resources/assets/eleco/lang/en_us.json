@@ -1,0 +1,21 @@
+{
+  "item.eleco.extinguished_torch": "Extinguished Torch",
+  "block.eleco.extinguished_torch": "Extinguished Torch",
+  "block.eleco.extinguished_wall_torch": "Extinguished Torch",
+  "entity.eleco.observer": "The Observer of the Mist",
+  "entity.eleco.doppelganger": "Doppelgänger",
+  "item.eleco.observer_spawn_egg": "Observer of the Mist Spawn Egg",
+  "eleco.day.title": "Day %s",
+  "eleco.day.sub.1": "Something watches from the mist...",
+  "eleco.day.sub.2": "The whispers begin.",
+  "eleco.day.sub.3": "The fog thickens. You are not alone.",
+  "eleco.day.sub.4": "It is getting closer. Keep your light burning.",
+  "eleco.day.sub.5": "RUN.",
+  "eleco.cmd.day": "Day set to %s",
+  "eleco.cmd.status": "Current day: %s (tick %s)",
+  "eleco.cmd.spawned": "Entity spawned.",
+  "eleco.cmd.nospace": "No valid spot nearby.",
+  "eleco.shader.copied": "Shaderpack copied to %s. Enable it in Options > Video Settings > Shader Packs (requires Iris).",
+  "eleco.shader.error": "Could not copy shaderpack: %s",
+  "eleco.shader.status": "Day received from server: %s"
+}

@@ -1,0 +1,21 @@
+{
+  "item.eleco.extinguished_torch": "Antorcha apagada",
+  "block.eleco.extinguished_torch": "Antorcha apagada",
+  "block.eleco.extinguished_wall_torch": "Antorcha apagada",
+  "entity.eleco.observer": "El Observador de la Bruma",
+  "entity.eleco.doppelganger": "Doble",
+  "item.eleco.observer_spawn_egg": "Huevo generador de Observador de la Bruma",
+  "eleco.day.title": "Día %s",
+  "eleco.day.sub.1": "Algo te observa desde la bruma...",
+  "eleco.day.sub.2": "Los susurros empiezan.",
+  "eleco.day.sub.3": "La niebla se espesa. Ya no estás solo.",
+  "eleco.day.sub.4": "Se acerca. Mantén la luz encendida.",
+  "eleco.day.sub.5": "CORRE.",
+  "eleco.cmd.day": "Día fijado a %s",
+  "eleco.cmd.status": "Día actual: %s (tick %s)",
+  "eleco.cmd.spawned": "Entidad generada.",
+  "eleco.cmd.nospace": "No hay sitio válido cerca.",
+  "eleco.shader.copied": "Shaderpack copiado a %s. Actívalo en Opciones > Ajustes de vídeo > Paquetes de shaders (requiere Iris).",
+  "eleco.shader.error": "No se pudo copiar el shaderpack: %s",
+  "eleco.shader.status": "Día recibido del servidor: %s"
+}

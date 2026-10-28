@@ -1,0 +1,21 @@
+{
+  "schemaVersion": 1,
+  "id": "eleco",
+  "version": "${version}",
+  "name": "El Eco",
+  "description": "Mod de terror psicologico de 5 dias: noche eterna, bruma, dobles que te miran y un Observador que se acerca.",
+  "authors": ["El Eco"],
+  "license": "MIT",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.eleco.ElEco"],
+    "client": ["com.eleco.client.ElEcoClient"]
+  },
+  "mixins": [ "eleco.mixins.json" ],
+  "depends": {
+    "fabricloader": ">=0.16.0",
+    "minecraft": "~1.21.1",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

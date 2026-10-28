@@ -1,0 +1,34 @@
+profile.BAJO=Low (no shadows)
+profile.MEDIO=Medium (recommended)
+profile.ALTO=High
+
+screen.SOMBRAS=Shadows
+screen.MUNDO=World
+screen.IMAGEN=Image
+
+option.SHADOWS=Shadows
+option.SHADOWS.comment=Enables sun and moon shadows. This is the most expensive feature.
+option.shadowMapResolution=Shadow quality
+option.shadowDistance=Shadow distance
+option.SHADOW_SOFTNESS=Shadow softness
+
+option.WAVING=Waving plants and leaves
+option.WAVE_STRENGTH=Wind strength
+option.WATER_WAVES=Water waves
+option.DYNAMIC_LIGHT=Handheld light
+option.FOG_DENSITY=Haze
+
+option.SHARPEN=Sharpening
+option.SATURATION=Saturation
+option.CONTRAST=Contrast
+option.VIGNETTE=Vignette
+
+
+screen.ECO=El Eco
+option.ECO_AUTO_DAY=Detect mod day
+option.ECO_AUTO_DAY.comment=Reads the mod day (1-5). If fog/colour do not change with days, turn it off and pick the day manually.
+option.ECO_DAY=Manual day
+option.ECO_DAY.comment=Solo se usa si "Detect mod day" esta apagado o falla.
+option.ECO_FOG=Mist density
+option.ECO_GRAIN=Film grain
+option.ECO_TORCH_FLICKER=Torch flicker

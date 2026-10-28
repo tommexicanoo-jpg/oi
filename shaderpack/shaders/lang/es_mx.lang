@@ -1,0 +1,38 @@
+profile.BAJO=Bajo (sin sombras)
+profile.MEDIO=Medio (recomendado)
+profile.ALTO=Alto
+
+screen.SOMBRAS=Sombras
+screen.MUNDO=Mundo
+screen.IMAGEN=Imagen
+
+option.SHADOWS=Sombras
+option.SHADOWS.comment=Activa las sombras del sol y la luna. Es lo que mas rendimiento consume.
+option.shadowMapResolution=Calidad de sombras
+option.shadowMapResolution.comment=Resolucion del mapa de sombras. 512 es lo mas ligero, 2048 se ve mas nitido.
+option.shadowDistance=Distancia de sombras
+option.shadowDistance.comment=Hasta donde se ven las sombras (en bloques). Menos distancia = mas FPS.
+option.SHADOW_SOFTNESS=Suavidad de sombras
+
+option.WAVING=Plantas y hojas con viento
+option.WAVE_STRENGTH=Fuerza del viento
+option.WATER_WAVES=Olas en el agua
+option.WATER_WAVES.comment=Olas y reflejos del cielo en el agua.
+option.DYNAMIC_LIGHT=Luz dinamica en la mano
+option.DYNAMIC_LIGHT.comment=Las antorchas y otros bloques luminosos iluminan a tu alrededor al sostenerlos.
+option.FOG_DENSITY=Neblina
+
+option.SHARPEN=Enfoque
+option.SATURATION=Saturacion
+option.CONTRAST=Contraste
+option.VIGNETTE=Vineta
+
+
+screen.ECO=El Eco
+option.ECO_AUTO_DAY=Detectar dia del mod
+option.ECO_AUTO_DAY.comment=Lee el dia (1-5) del mod. Si la niebla/color no cambian con los dias, desactivalo y elige el dia manualmente.
+option.ECO_DAY=Dia manual
+option.ECO_DAY.comment=Solo se usa si "Detectar dia del mod" esta apagado o falla.
+option.ECO_FOG=Densidad de la bruma
+option.ECO_GRAIN=Grano de pelicula
+option.ECO_TORCH_FLICKER=Parpadeo de antorchas
